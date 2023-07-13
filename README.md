@@ -12,4 +12,12 @@ This project implements search films in catalog :
 
 
 ## Preview
+![Films - Google Chrome 13 07 2023 13_29_53](https://github.com/TatianaBrt/Movies-App/assets/115479875/279f5a03-5246-455e-8f10-7b64152fe011)
+
+
+
+
+
+
+
 
